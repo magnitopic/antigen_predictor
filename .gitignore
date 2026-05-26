@@ -39,3 +39,4 @@ wheels/
 # IDEs
 .vscode/
 .idea/
+.claude/
